@@ -14,3 +14,6 @@ I really don't know. This was just something I whipped up in less then an aftern
 
 ## Can you do a Clinton one?
 Eh, maybe. Somebody get me a corpus of her speeches and I might.
+
+## It doesn't work right!
+It probably won't. Fix it and submit a pull request if you have any troubles.
